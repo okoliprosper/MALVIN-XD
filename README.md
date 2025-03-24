@@ -42,7 +42,7 @@ MALVIN-XD BY Malvin King 🩵
 </p> 
 
 <p align="center">
-  <a href="https://github.com/kingmalvn/MALVIN-XD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/kingmalvn/MALVIN-XD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.5.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
