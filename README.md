@@ -68,7 +68,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 
 <p align="left">  
-<a href='https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/MALVIN-XD1/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
+<a href='https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/MALVIN-XD2/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
 </p>
 
 > Deploy on TalkDrove
@@ -76,7 +76,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 
 <p align="left">  
-<a href='https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=17' target="_blank"><img alt='Deploy on TalkDrove' src='https://img.shields.io/badge/Deploy%20on-TaikDrove-6971FF?style=for-the-badge&logo=google-cloud&logoColor=white'/></a>  
+<a href='https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=' target="_blank"><img alt='Deploy on TalkDrove' src='https://img.shields.io/badge/Deploy%20on-TaikDrove-6971FF?style=for-the-badge&logo=google-cloud&logoColor=white'/></a>  
 </p>
 
 > Deploy on Koyeb
@@ -84,7 +84,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 
 <p align="left">  
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=kingmalvn/MALVIN-XD1&ports=3000' target="_blank"><img alt='Deploy on Koyeb' src='https://img.shields.io/badge/Deploy%20on-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=kingmalvn/MALVIN-XD2&ports=3000' target="_blank"><img alt='Deploy on Koyeb' src='https://img.shields.io/badge/Deploy%20on-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
 </p>
 
 **• 𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗 /PANEL**
@@ -94,7 +94,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 
 <p align="left">  
-<a href='https://github.com/kingmalvn/MALVIN-XD1/archive/refs/heads/main.zip' target="_blank"><img alt='Download Bot File'                                  src='https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white'/></a>  
+<a href='https://github.com/kingmalvn/MALVIN-XD2/archive/refs/heads/main.zip' target="_blank"><img alt='Download Bot File'                                  src='https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white'/></a>  
 </p>
 
 > Deploy on Katabump 
