@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "MALVIN-XD~kp4VBarA#i8TFltFKjR_b9vol_I3Y2MIEkGIet-j8wZUhYBDYdGA"
     },  
     
     "MENU_IMG": {
@@ -109,7 +109,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263714757857"
+      "value": "23479210131"
 
     }, 
 
